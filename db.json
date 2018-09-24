@@ -11,16 +11,16 @@
            "block": true,
            "icon_image": "https://olxpkstatic-a.akamaihd.net/c11771d-142/naspersclassifieds-regional/olxpk-atlas-web-olxpk/static/img/fb/fb-image200x200.png",
            "background_image": "https://olxpkstatic-a.akamaihd.net/c11771d-142/naspersclassifieds-regional/olxpk-atlas-web-olxpk/static/img/fb/fb-image200x200.png",
-           "title": "Update App",
-           "message": "Please update the app, we no logner support older version of oLX app",
+           "title": "New OLX App Available",
+           "message": "The new OLX app is still 100% free, but we gave it a serious makeover.\nGrab the new, better-than-ever, app in the Store now.",
            "buttons": [{
-		        "text": "Update",
+		        "text": "Update Now",
 		        "action": "redirect",
-		        "url": "https://www.google.com"
+		        "url": "https://itunes.apple.com/pk/app/olx-pakistan/id1119081665?mt=8"
 		       }, {
-		        "text": "Cancel",
-		        "action": "cancel",
-		        "url": "https://www.olx.com.pk/i2/"
+		        "text": "Use Mobile Site",
+		        "action": "redirect",
+		        "url": "https://www.olx.com.pk/"
 	               }]
            }
        }
