@@ -23,7 +23,7 @@
 		        "action": "redirect",
 		        "url": "https://www.olx.com.pk/"
 	               }]
-  		},
+  	},
 	"configuration": {
 		"observed_searches_enabled": true,
 		"location_tool_version": "4.0",
