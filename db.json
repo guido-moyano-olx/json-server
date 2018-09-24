@@ -16,7 +16,7 @@
            "buttons": [{
 		        "text": "Update Now",
 		        "action": "redirect",
-		        "url": "https://itunes.apple.com/pk/app/olx-pakistan/id1119081665?mt=8"
+		        "url": "https://itunes.apple.com/pk/app/olx-pakistan/id1119081665"
 		       }, {
 		        "text": "Use Mobile Site",
 		        "action": "redirect",
