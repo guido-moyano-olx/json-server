@@ -1,11 +1,5 @@
 {
-  "version": {
-       "categoryTree": "124",
-       "parameters": "124",
-       "locations": "124",
-       "promotions": 1,
-       "hintText": "1.0",
-       "splash": {
+  "splash": {
            "device": "ios",
            "force_update": true,
            "block": true,
@@ -22,6 +16,5 @@
 		        "action": "redirect",
 		        "url": "https://www.olx.com.pk/"
 	               }]
-           }
-       }
+  		}
 }
