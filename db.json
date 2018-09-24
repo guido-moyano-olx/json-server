@@ -1,0 +1,27 @@
+{
+  "version": {
+       "categoryTree": "124",
+       "parameters": "124",
+       "locations": "124",
+       "promotions": 1,
+       "hintText": "1.0",
+       "splash": {
+           "device": "ios",
+           "force_update": true,
+           "block": true,
+           "icon_image": "https://olxpkstatic-a.akamaihd.net/c11771d-142/naspersclassifieds-regional/olxpk-atlas-web-olxpk/static/img/fb/fb-image200x200.png",
+           "background_image": "https://olxpkstatic-a.akamaihd.net/c11771d-142/naspersclassifieds-regional/olxpk-atlas-web-olxpk/static/img/fb/fb-image200x200.png",
+           "title": "Update App",
+           "message": "Please update the app, we no logner support older version of oLX app",
+           "buttons": [{
+		        "text": "Update",
+		        "action": "redirect",
+		        "url": "https://www.google.com"
+		       }, {
+		        "text": "Cancel",
+		        "action": "cancel",
+		        "url": "https://www.olx.com.pk/i2/"
+	               }]
+           }
+       }
+}
